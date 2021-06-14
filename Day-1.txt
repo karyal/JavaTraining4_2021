@@ -1,0 +1,11 @@
+Java-1
+- OS - MACOS 10.14.6
+- JDK - Download, Install & Uninstall - 9 [HW]
+
+- Code Editor - Eclipse
+- First Project, First Package, First Program, Save, Edit, Compile, and Run
+
+- Software Testing/QA
+- First Program - Debug (Test) [Stop-point/Break point, Start program in Debug Mode)
+- Step Into/Step Over*
+- Stop Debug

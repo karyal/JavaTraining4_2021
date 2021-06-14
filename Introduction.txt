@@ -1,0 +1,24 @@
+Pabitra Bista
+Bachelors - Information System
+- Java/Python/Web Designing
+- Database Management System (MySQL)
+- Business Related Subjects
+
+
+Objectives
+- to Prepated Job 
+
+-  FrontEnd 
+	- HTML, CSS, TypeScript, Node, Angular [ React | View] - Self Learning
+
+- BackEnd
+	- Core Java
+	- Database Management System (MySQL | SQLite etc)
+	- Java Framework (Spring)
+	- Microservice (SpringBoot)
+
+- Daily Learning Hrs (Self Learning 3+)
+- Course Duration (3.5+)
+
+# Research (Self Learning)
+# Hands-on Practical
