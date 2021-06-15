@@ -1,6 +1,8 @@
 Java-1
+
+Day-1 [Monday June 14, 2021]
 - OS - MACOS 10.14.6
-- JDK - Download, Install & Uninstall - 9 [HW]
+- JDK - Download, Install & Uninstall - 9 [HW] - Solved [June 15, 2021]
 
 - Code Editor - Eclipse
 - First Project, First Package, First Program, Save, Edit, Compile, and Run
@@ -9,3 +11,30 @@ Java-1
 - First Program - Debug (Test) [Stop-point/Break point, Start program in Debug Mode)
 - Step Into/Step Over*
 - Stop Debug
+
+Day-2 [Tuesday June 15, 2021]
+- Data Types	Possible Value
+
+a. boolean 		ture/false
+- Yes/No, Pass/Fail, True/False, On/Off, 
+
+b. byte			Numeric value - whole number (without fractional value) [127 to -128]
+c. short		Numeric value - whole number (without fractional value) [32767 to -32768]
+d. int			Numeric value - whole number (without fractional value) [2147483647 to -2147483648]
+e. long			Numeric value - whole number (without fractional value) [9223372036854775807 to -9223372036854775808]
+
+f. float		Numeric value - decimal value (with fractional value) [3.4028235E38 to -4.9E-324]
+g. double		Numeric value - decimal value (with fractional value) [1.7976931348623157E308 to 4.9E-324]
+
+h. char			Single character enclosed by '' single quote. i.e. 'A'
+
+- Declare variable
+- Value Assign
+- Value Access (print())
+- Type Conversion (byte to short)
+
+- Memory Consumption by Data Type - byte ? (byte, kilobyte, megabyte) how much? - HW [June-15 2021]
+
+- Local variable - declared inside of function (main())
+- Global variable - declared outside of function (main()). global variable shuld be static in nature; because main function is static
+
