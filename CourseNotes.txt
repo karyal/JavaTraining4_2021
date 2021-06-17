@@ -17,7 +17,6 @@ Day-2 [Tuesday June 15, 2021]
 
 a. boolean 		ture/false
 - Yes/No, Pass/Fail, True/False, On/Off, 
-
 b. byte			Numeric value - whole number (without fractional value) [127 to -128]
 c. short		Numeric value - whole number (without fractional value) [32767 to -32768]
 d. int			Numeric value - whole number (without fractional value) [2147483647 to -2147483648]
@@ -26,7 +25,12 @@ e. long			Numeric value - whole number (without fractional value) [9223372036854
 f. float		Numeric value - decimal value (with fractional value) [3.4028235E38 to -4.9E-324]
 g. double		Numeric value - decimal value (with fractional value) [1.7976931348623157E308 to 4.9E-324]
 
-h. char			Single character enclosed by '' single quote. i.e. 'A'
+h. char			Single character enclosed by '' single quote. i.e. 'AB'
+
+i. string		Collections of multiple characters enclosed by " " double quote i.e. "ABCDEF"
+
+j. Object 		Global type which can store any type of value.
+
 
 - Declare variable
 - Value Assign
@@ -37,4 +41,25 @@ h. char			Single character enclosed by '' single quote. i.e. 'A'
 
 - Local variable - declared inside of function (main())
 - Global variable - declared outside of function (main()). global variable shuld be static in nature; because main function is static
+
+- Pointers in C/C++ Programming - Revised : Memory Address Accessing of System
+
+Day-3
+- string
+- Object
+- Memory Size - Chart
+- Varaible Decalre, Memory Allocate, Memory Access (hashCode()/C, C++ Pinters - Revised)
+- Type Casting and Type Conversion
+- Type Casting (Numeric to Numeric - Auto Conversion/Casting)
+- Type Conversion (Numeric to String/String to Numeric)
+
+Day-4
+- Conversion - boolean, char 
+
+- Basic IO - Input/Output (Input from Keyboard/Display on Screen)
+	- Numeric to String/String to Numeric
+
+	
+
+
 

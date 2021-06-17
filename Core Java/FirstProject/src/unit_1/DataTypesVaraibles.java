@@ -6,6 +6,18 @@ public class DataTypesVaraibles {
 	static boolean globalRes=true; //Cannot make a static reference to the non-static field globalRes
 	
 	public static void main(String[] args) {
+		//Data Types
+		/*
+		a. boolean
+		b. byte
+		c. short
+		d. int
+		e. long
+		f. float
+		g. double
+		h. char
+		i. string
+		 */
 		
 		//a. boolean true/false
 		/*
@@ -33,6 +45,8 @@ public class DataTypesVaraibles {
 		//Helper Class
 		//Byte		
 		//bn = 123456789; 	// Range - Min to Max
+		System.out.println(bn);
+		
 		System.out.println(Byte.MIN_VALUE);
 		System.out.println(Byte.MAX_VALUE);
 		
@@ -110,12 +124,55 @@ public class DataTypesVaraibles {
 		*/
 		
 		//h. char single character with ''
+		/*
 		char ch = 'H';
 		System.out.println(ch);
 		ch = 'a';
 		System.out.println(ch);
 		ch = '1';
 		System.out.println(ch);		
+		*/
+		
+		//i. string
+		/*
+		String str1; //decalre
+		str1 = "Accessing Global Variable"; //Assign
+		System.out.println(str1); //Access
+		*/
+		
+		//j. Object
+		Object obj1  = true; //boolean
+		System.out.println(obj1); //Access
+		
+		obj1  = 12; //byte
+		System.out.println(obj1); //Access
+		
+		obj1  = 148; //short
+		System.out.println(obj1); //Access
+		
+		obj1  = 45678947; //int
+		System.out.println(obj1); //Access
+				
+		obj1  = 45678947355L; //long
+		System.out.println(obj1); //Access
+		
+		obj1  = 45678947355.3555f; //float
+		System.out.println(obj1); //Access
+		
+		obj1  = 45678947355.2514; //double
+		System.out.println(obj1); //Access
+		
+		obj1  = 'b'; //char
+		System.out.println(obj1); //Access
+		
+		obj1  = "Variables and Data Types"; //String
+		System.out.println(obj1); //Access
+		
+		Object obj2 = obj1;
+		System.out.println(obj2); //Access
+		
+		System.out.println(obj1.hashCode());
+		System.out.println(obj2.hashCode());
 		
 		/*
 		//Accessing Global Variable
