@@ -11,6 +11,7 @@ Day-1 [Monday June 14, 2021]
 - First Program - Debug (Test) [Stop-point/Break point, Start program in Debug Mode)
 - Step Into/Step Over*
 - Stop Debug
+- Exploring Varaibles and Values
 
 Day-2 [Tuesday June 15, 2021]
 - Data Types	Possible Value
@@ -55,11 +56,32 @@ Day-3
 
 Day-4
 - Conversion - boolean, char 
+- Character Encoding
+	- ASCII Value : Research
+	- Unicode Value : Research
+
+- Keyboard -> String -> Program (Accept) -> String -> Cast/Conversion -> Specific Type -> Process -> Result -> Cast/Conversion -> String -> User
 
 - Basic IO - Input/Output (Input from Keyboard/Display on Screen)
 	- Numeric to String/String to Numeric
-
 	
+	- Input
+		- Keyboard, Scanner, Mouse, Microphone, File, Dabase, Network
+		- Keyboard - Default Media of Input
+		- Read value from Keyboard and Assign to Variable 
+			- Scanner Class - System Defined Class
+			- We can consume/use this class to read value from keyboard
+			- How to read value from keyboard
+			- How to convert string to specific type
+	
+	- Accept two numbers, display sum, difference, product, division, remainder of them. HW
 
+Day-5
+- Input/Output - V2
 
-
+- Operators in Java
+	- Arthematic Operators
+	- Assignment Operators
+	- Relational Operators
+	- Logical Operators
+	- Other Operators
