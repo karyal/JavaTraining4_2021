@@ -80,8 +80,50 @@ Day-5
 - Input/Output - V2
 
 - Operators in Java
-	- Arthematic Operators
+	- Arthematic Operators (+, -, *, /, %, pow, sqrt, ++(increment), --(decrement))
 	- Assignment Operators
-	- Relational Operators
+
+Day-6	
+	- Relational Operators (==, !=, >, >=, <, <=)
+	- Compare two values and generate boolean result (true/false)
+	- Compare two values - Condition -> boolean
+	- We takes decision based on result
+	- Specially working with Numeric Types (byte, short, int, long, float, double, char)
+	- boolean type (==, !=)
+	- String (Not Applicable)
+	
+	- Greater than (>) or Equals to (==) (>=)
+	
+	- Truth table of OR and AND
+	- (Condition1) or (Condition2)
+	  (num1 > num2) or (num1 == num2)
+	  True          or  True          -> True 
+	  True          or  False         -> True 
+	  False         or  True          -> True 
+	  False         or  False         -> False 
+	
+	- (Condition1) and (Condition2)
+	  (num1 > num2) and (num1 == num2)
+	  True          and  True          -> True 
+	  True          and  False         -> False 
+	  False         and  True          -> False 
+	  False         and  False         -> False 
+	  
+	- Lesst than or equals to (<=) (<) or (==)
+	
 	- Logical Operators
+	- && AND, || OR , ! NOT
+	
+	- Conditional Operators
+	(Condition)?Result1: Result2
+	
 	- Other Operators
+	{}, [], (), . , ;
+	
+	
+	- Bitwise Operators (Lowlevel Operators)
+
+Day-7
+	- Enum Type
+	- Functions Basic
+	- Array Basic	

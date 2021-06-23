@@ -21,15 +21,6 @@ public class BasicIOTest {
 		//System.out.println("Reading Value : "+str0);		
 		//A, true, 10, 10.23, "Kathmandu"
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		/*
 		//Output		
 		//Output - String Output
