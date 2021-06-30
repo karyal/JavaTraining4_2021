@@ -119,11 +119,17 @@ Day-6
 	
 	- Other Operators
 	{}, [], (), . , ;
-	
-	
+		
 	- Bitwise Operators (Lowlevel Operators)
 
-Day-7
-	- Enum Type
+Day-7	
 	- Functions Basic
-	- Array Basic	
+
+Day-8
+	- Function - Mini Project
+
+Day-9
+	- Enum Type
+	- Array Basic
+
+

@@ -1,0 +1,56 @@
+# Task-1:
+- Variables
+- Basic IO (input/output)
+- Class, and Object
+- Looping Statement
+- Static variable/function - user defined
+----------------------------------
+Main Menu
+----------------------------------
+1. ADD
+2. SUB
+3. PRD
+0. EXIT
+----------------------------------
+Enter your choice : _1 <user given>
+----------------------------------
+Enter first no : 20
+Enter second no : 5
+SUM : 25
+----------------------------------
+Main Menu
+----------------------------------
+1. ADD
+2. SUB
+3. PRD
+0. EXIT
+----------------------------------
+Enter your choice : _2
+----------------------------------
+Enter first no : 20
+Enter second no : 5
+SUM : 15
+----------------------------------
+Main Menu
+----------------------------------
+1. ADD
+2. SUB
+3. PRD
+0. EXIT
+----------------------------------
+Enter your choice : _3
+----------------------------------
+Enter first no : 20
+Enter second no : 5
+SUM : 100
+----------------------------------
+Main Menu
+----------------------------------
+1. ADD
+2. SUB
+3. PRD
+0. EXIT
+----------------------------------
+Enter your choice : _0
+----------------------------------
+Bye!
