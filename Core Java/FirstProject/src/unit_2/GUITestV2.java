@@ -1,6 +1,8 @@
 package unit_2;
 
 import java.awt.FlowLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -8,7 +10,7 @@ import javax.swing.JTextField;
 import javax.swing.JButton;
 
 
-public class GUITestV2 {
+public class GUITestV2 implements ActionListener{
 	//https://docs.oracle.com/javase/tutorial/uiswing/
 	//https://www.guru99.com/java-swing-gui.html
 	
@@ -32,6 +34,7 @@ public class GUITestV2 {
 		txt_2 = new JTextField(10);
 		
 		btn_add = new JButton("ADD");
+		btn_add.addActionListener(this);
 		
 		frame.add(lbl_1);		
 		frame.add(txt_1);
@@ -44,5 +47,17 @@ public class GUITestV2 {
 	}
 	public static void main(String[] args) {
 		new GUITestV2();
+	}
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		if(e.getSource()==btn_add) {
+			int n1, n2;
+			Calculator calc;
+			n1=Integer.parseInt(txt_1.getText());
+			n2=Integer.parseInt(txt_2.getText());
+			calc=new Calculator(n1, n2);
+			calc.sum();
+			lbl_3.setText(Integer.toString(calc.getNum3()));
+		}
 	}
 }
