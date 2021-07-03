@@ -1,10 +1,10 @@
 package unit_2;
 
 public class Calculator {
-	//Instance Variables
-	int num1;
-	int num2;
-	int num3;
+	//Instance Variables | Data Members
+	int num1; //User input
+	int num2; //User input
+	int num3; //Result
 	
 	//Constructors | to initialize an object
 	//Default  Constructor
@@ -26,8 +26,7 @@ public class Calculator {
 		this.num3=calc.num3;
 	}
 	
-	//Getters and Setters
-	
+	//Getters and Setters	
 	//Getters
 	public int getNum1() {
 		return this.num1;
@@ -68,5 +67,5 @@ public class Calculator {
 	}
 	public void div() {
 		this.num3=this.num1/this.num2;
-	}			
+	}
 }

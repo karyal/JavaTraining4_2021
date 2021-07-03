@@ -4,10 +4,12 @@ import java.util.Scanner;
 
 public class BasicIO {
 	
+	//Reading String from Keyboard
 	public String readString() {
 		return new Scanner(System.in).nextLine();
 	}
 	
+	//Reading String from Keyboard and Convert to Integer 
 	public int readInt() {
 		return Integer.parseInt(readString());
 	}
@@ -15,14 +17,16 @@ public class BasicIO {
 	public void printMessage(String label) {
 		System.out.print(label);
 	}
-	public void newLine() {
-		System.out.println();
-	}
+	
 	public void printMessage(String label, int num) {
 		System.out.println(label+" : "+num);
 	}
 	
-	static void printMenu() {
+	public void newLine() {
+		System.out.println();
+	}
+	
+	void printMenu() {
 		System.out.println("----------------------------------"); 
 		System.out.println("Main Menu"); 
 		System.out.println("----------------------------------");

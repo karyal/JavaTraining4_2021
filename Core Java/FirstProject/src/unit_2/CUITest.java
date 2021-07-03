@@ -11,11 +11,11 @@ public class CUITest {
 		//2. Input		
 		bio=new BasicIO();
 		bio.printMessage("Enter first no");
-		tmp1= bio.readInt();
+		tmp1 = bio.readInt();
 		
 		bio.printMessage("Enter second no");
-		tmp2= bio.readInt();
-						
+		tmp2 = bio.readInt();
+		
 		//3. Process
 		calc= new Calculator(tmp1, tmp2); //Initialize		
 		calc.sum();
