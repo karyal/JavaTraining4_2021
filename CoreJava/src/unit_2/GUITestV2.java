@@ -1,5 +1,12 @@
 package unit_2;
 
+// 1. CoreJava -- Certified
+// 2. OOPs (Swing-Testing Tool)
+// 3. Servlet
+// 4. JSP 
+// 5. Web Designing (HTML, CSS, JavaScript)*
+// 6. Spring (Web Application) -- Certified
+
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -36,7 +43,7 @@ public class GUITestV2 implements ActionListener{
 		btn_add = new JButton("ADD");
 		btn_add.addActionListener(this);
 		
-		frame.add(lbl_1);		
+		frame.add(lbl_1);
 		frame.add(txt_1);
 		frame.add(lbl_2);		
 		frame.add(txt_2);

@@ -53,10 +53,13 @@ public class CUITestV3 {
 			} else if (choice == 0) {
 				bio.printMessage("Bye!");
 				System.exit(0);
-			}	
+			}
+			else {
+				bio.printMessage("Choice out of range!");				
+			}
 			// 4. Output
 			// bio.printMessage("SUM", calc.getNum3());
-			bio.printMessage("----------------------------------");
+			//bio.printMessage("----------------------------------");
 			bio.newLine();
 		} while (choice != 0);
 	}
