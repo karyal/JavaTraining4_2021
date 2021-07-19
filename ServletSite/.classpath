@@ -15,6 +15,5 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="C:/Users/Krishna Aryal/Downloads/apache-tomcat-9.0.50/lib/jsp-api.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Krishna Aryal/Downloads/apache-tomcat-9.0.50/lib/servlet-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Krishna Aryal/Google Drive/Learning/Java/Projects/FirstSite/backup/mylib.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
