@@ -1,6 +1,7 @@
 package unit_2;
 import java.util.Scanner;
-import my_functions.MyFunctions;
+
+import functions.MyFunctions;
 
 public class SimpleInterestV2 {
 
