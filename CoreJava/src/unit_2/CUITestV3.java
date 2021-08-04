@@ -1,5 +1,7 @@
 package unit_2;
 
+import pkg1.Calculator;
+
 public class CUITestV3 {
 
 	public static void main(String[] args) {
@@ -53,10 +55,13 @@ public class CUITestV3 {
 			} else if (choice == 0) {
 				bio.printMessage("Bye!");
 				System.exit(0);
-			}	
+			}
+			else {
+				bio.printMessage("Choice out of range!");				
+			}
 			// 4. Output
 			// bio.printMessage("SUM", calc.getNum3());
-			bio.printMessage("----------------------------------");
+			//bio.printMessage("----------------------------------");
 			bio.newLine();
 		} while (choice != 0);
 	}
