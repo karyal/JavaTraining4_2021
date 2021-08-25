@@ -1,0 +1,67 @@
+--------------------------------------------
+Main Menu
+--------------------------------------------
+1. Add New Record
+2. Display All Records
+3. Search Record based on ID
+4. Search and Edit Record
+5. Search and Delete Record
+0. Exit
+--------------------------------------------
+Enter your choice : 1
+--------------------------------------------
+Enter ID : 1
+Enter Name : ABC
+Enter Address : KTM
+Enter Phone : 888988899
+Enter Email : abc@gmail.com
+--------------------------------------------
+Do you want to save (Y|N) : Y/y
+Record Save Successfully!
+--------------------------------------------
+Main Menu
+--------------------------------------------
+1. Add New Record
+2. Display All Records
+3. Search Record based on ID 
+4. Search and Edit Record
+5. Search and Delete Record
+0. Exit
+--------------------------------------------
+Enter your choice : 2
+--------------------------------------------
+ID	NAME	ADDRESS	PHONE	EMAIL
+1	ABC		-----	----	-----
+N	XYZ		-----	----	-----
+--------------------------------------------
+Main Menu
+--------------------------------------------
+1. Add New Record
+2. Display All Records
+3. Search Record based on ID 
+4. Search and Edit Record
+5. Search and Delete Record
+0. Exit
+--------------------------------------------
+Enter your choice : 3
+--------------------------------------------
+Enter ID : 1
+Record found !
+--------------------------------------------
+ID : 1
+Name : ABC
+Address : KTM
+Phone : 888988899
+Email : abc@gmail.com
+--------------------------------------------
+Main Menu
+--------------------------------------------
+1. Add New Record
+2. Display All Records
+3. Search Record based on ID 
+4. Search and Edit Record
+5. Search and Delete Record
+0. Exit
+--------------------------------------------
+Enter your choice : 3
+--------------------------------------------
